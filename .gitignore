@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# uv
+uv.lock
+
+# macOS
+.DS_Store
+
+# IDE/editor
+.idea/
+.vscode/
